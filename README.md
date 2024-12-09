@@ -35,7 +35,7 @@ cd 715521104307_Rajadurai-M
 ```
 Got it! Here's the Markdown text with only the commands in the code block format and the rest in normal text:
 
-```markdown
+
 ## Set Up the Frontend
 
 To create and set up the frontend, run:
